@@ -28,7 +28,9 @@ from the unpacked folder produces a table with columns
 Discriminant | levelHNF | weight | total | all cuspidal | new cuspidal | newBC | newCM+genuine
 
 To work over a different imaginary quadratic field, the user may edit the source file in order to process a different input table from column (I.) of
+
 https://melodia.gaati.org/open-data/BianchiModularForms.html
+
 Attention: Only prime discriminant > 3 is implemented correctly.
 
 Alternatively, the user may start by loading
