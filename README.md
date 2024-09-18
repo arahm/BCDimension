@@ -67,5 +67,7 @@ Examples:
 
 9
 
-We acknowledge the funding of the principal investigators by the Irish Research Council as well as the ANR project MELODIA (for Alexander D. Rahm) and by the Marie Curie program (for Mehmet Haluk Sengun).
+The development of this software was funded by Gabor Wiese’s FNR Luxembourg grant INTER/DFG/FNR/12/10/COMFGREP and University of Luxembourg grant AMFOR.
+We acknowledge funding of the ANR project MELODIA during the This research project was funded by Gabor Wiese’s FNR Luxembourg grant IN-
+TER/DFG/FNR/12/10/COMFGREP and University of Luxembourg grant AMFOR.release of this software.
 
