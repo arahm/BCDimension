@@ -68,6 +68,5 @@ Examples:
 9
 
 The development of this software was funded by Gabor Wiese’s FNR Luxembourg grant INTER/DFG/FNR/12/10/COMFGREP and University of Luxembourg grant AMFOR.
-We acknowledge funding of the ANR project MELODIA during the This research project was funded by Gabor Wiese’s FNR Luxembourg grant IN-
-TER/DFG/FNR/12/10/COMFGREP and University of Luxembourg grant AMFOR.release of this software.
+We acknowledge funding of the ANR project MELODIA during the release of this software.
 
